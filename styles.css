@@ -1,0 +1,85 @@
+body {
+    background: rgb(80, 80, 80);
+    color: white;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: rgb(0, 170, 0);
+    margin: 0;
+    padding: 10px 0 20px 0;
+    border-bottom: 1px solid #000;
+}
+header h1 {
+    padding-left: 40px;
+}
+header a {
+    text-decoration: none;
+    color: white;
+    padding: 1px 4px;
+
+}
+header ul {
+    list-style-type: none;
+}
+header li {
+    display: inline-block;
+}
+header a:hover {
+    background-color: rgb(0, 110, 0);
+    border-radius: 3px;
+
+}
+header h1,h2 {
+    display: inline-block;
+}
+header h2 {
+    padding-left: 10px;
+}
+header span {
+    color: rgb(0, 95, 0);
+}
+section.index-content {
+    display: flex;
+    flex-direction: row;
+}
+div.index-content {
+    width: 100%;
+    margin: 0px;
+    background-color: red;
+}
+img.cats-images {
+    display: block;
+    margin: 30px auto -10px auto;
+}
+div.wiki-content1 {
+    padding-left: 6px;
+    padding-top: 2px;
+}
+div.wiki-content2 {
+    padding-left: 32px;
+}
+section.school-theme {
+    text-align: center;
+    padding-top: 100px;
+}
+section.school-theme a {
+    text-decoration: none;
+    color: white;
+    padding: 100px 200px;
+    margin: 10px;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+section.school-theme a:hover {
+    background-color: tomato;
+}
+
+ul.school-theme {
+    list-style-type: none;
+    display: inline-block;
+}
+li.school-theme {
+    display: inline-block;
+}
