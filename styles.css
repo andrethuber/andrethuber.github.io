@@ -83,3 +83,41 @@ ul.school-theme {
 li.school-theme {
     display: inline-block;
 }
+table.energy {
+    margin: auto;    
+}
+tr.energy {
+}
+td.energy {
+    display: inline-block ;
+    background-color: rgb(48, 48, 48);
+    padding: 4px 8px;
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    margin: 5px;
+    border-radius: 8px;
+}    
+img.energy {
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+}
+h2.energy {
+    margin: 5px 0;
+    padding: 10px;
+    padding-left: 10%;
+    background-color: rgb(0, 116, 0);
+    width: 89.1%;
+}
+img.ester-egg {
+    width: 100%;
+    height: auto;
+    margin-top: 1000px;
+}
+img.energy-energy {
+    background-color: white;
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+}
