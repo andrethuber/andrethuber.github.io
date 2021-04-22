@@ -144,7 +144,7 @@ img.standing {
     width: auto;
     border-radius: 5px;
 }
-a.source {
+.source {
     text-decoration: none;
     color: cornflowerblue;
 }
@@ -152,4 +152,12 @@ img.laying {
     height: auto;
     width: 100%;
     border-radius: 5px;
+}
+div.energy_nor1 {
+    margin: 0;
+    margin-top: 15px;
+}
+a.blank_link {
+    text-decoration: none;
+    color: white;
 }
